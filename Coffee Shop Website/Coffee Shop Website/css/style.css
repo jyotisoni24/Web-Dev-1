@@ -161,10 +161,9 @@ ul li a:hover {
     font-size: 22px;
   }
 
-  .menu {
+  .menu { 
     display: none;
   }
-
   .search {
     margin-left: 10px;
   }
