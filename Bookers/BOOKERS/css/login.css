@@ -110,12 +110,13 @@ body{
   }
 
 footer {
+    margin-bottom: 0;
     border: 2px solid #f0a500;
     background-color: #252525;
     color: #fff;
     text-align: center;
     padding: 1rem 0;
-    position:absolute;
+    position:bottom;
     width: 100%;
     bottom: 0;
 }
